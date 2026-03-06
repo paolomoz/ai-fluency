@@ -1,0 +1,16 @@
+[project]
+name = "ai-fluency"
+version = "0.1.0"
+description = "Assess your AI fluency based on Anthropic's 4D framework"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+ai-fluency = "ai_fluency.cli:main"
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[tool.setuptools.packages.find]
+where = ["src"]
