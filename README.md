@@ -4,7 +4,7 @@ Scan your AI activity and get a detailed assessment of your AI fluency based on 
 
 Runs locally via Claude Code — no API calls, no data leaves your machine.
 
-![AI Fluency Report — Overall score, heuristic analysis, and competency breakdown](docs/hero.png)
+![AI Fluency Report — Overall score, heuristic analysis, and competency breakdown](docs/hero.png?v=2)
 
 ## What it measures
 
@@ -48,13 +48,13 @@ The 4D Framework defines **24 behaviors** across 4 competencies:
 
 Every message is scanned against behavior patterns. Bars are scaled relative to the strongest behavior — no misleading percentages.
 
-![Heuristic heatmap and project breakdown](docs/heatmap.png)
+![Heuristic heatmap and project breakdown](docs/heatmap.png?v=2)
 
 ### Per-behavior cards with evidence and actions
 
 Each of the 24 behaviors gets a dedicated card with score, evidence from your actual conversations, and concrete next steps.
 
-![Behavior cards with evidence and actionable recommendations](docs/behavior-card.png)
+![Behavior cards with evidence and actionable recommendations](docs/behavior-card.png?v=2)
 
 ## Usage
 
