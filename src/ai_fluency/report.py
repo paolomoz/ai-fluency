@@ -105,12 +105,12 @@ def generate_report(
     lines.append("")
     lines.append("### Scoring Guide")
     lines.append("")
-    lines.append("For each behavior, assess on a 1-5 scale:")
-    lines.append("- **1 - Novice**: No evidence of this behavior")
-    lines.append("- **2 - Emerging**: Occasional or inconsistent evidence")
-    lines.append("- **3 - Developing**: Regular evidence but room for improvement")
-    lines.append("- **4 - Proficient**: Consistent, effective demonstration")
-    lines.append("- **5 - Expert**: Sophisticated, nuanced mastery")
+    lines.append("For each behavior, assess on a 1-5 scale aligned with CEFR language levels:")
+    lines.append("- **1 - A1 Breakthrough**: No evidence of this behavior")
+    lines.append("- **2 - A2 Elementary**: Occasional or inconsistent evidence")
+    lines.append("- **3 - B1 Intermediate**: Regular evidence but room for improvement")
+    lines.append("- **4 - B2 Upper Intermediate**: Consistent, effective demonstration")
+    lines.append("- **5 - C1 Advanced**: Sophisticated, nuanced mastery")
     lines.append("")
 
     # --- Evidence by behavior ---

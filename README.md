@@ -1,6 +1,6 @@
 # AI Fluency Assessment
 
-Scan your AI activity and get a detailed assessment of your AI fluency based on **Anthropic's 4D Framework** (Dakan, Feller & Anthropic, 2025).
+Scan your AI activity and get a detailed assessment of your AI fluency based on **Anthropic's 4D Framework** (Dakan, Feller & Anthropic, 2025). Graded on a **CEFR-aligned scale** (A1→C2) — the same system used for human language certification worldwide.
 
 Runs locally via Claude Code — no API calls, no data leaves your machine.
 
