@@ -17,7 +17,7 @@ The 4D Framework defines **24 behaviors** across 4 competencies:
 | **Discernment** | Evaluating AI outputs critically | 13–18 |
 | **Diligence** | Using AI responsibly and ethically | 19–24 |
 
-**11 behaviors** are observable from your conversation data. **13 behaviors** are assessed via self-report questionnaire.
+**11 behaviors** are observable from your conversation data.  **13 behaviors** are assessed via self-report questionnaire.
 
 ## How it works
 
